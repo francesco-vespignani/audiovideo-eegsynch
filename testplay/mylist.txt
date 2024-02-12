@@ -2,7 +2,7 @@
 # merge multiple viedos
 ###
 ###
-# ffmpeg -f concat -i mylist.txt -c copy output.wav
+# ffmpeg -f concat -i mylist.txt -c copy sequenceAMT.mkv
 ###
 file 'singleshotAMT.mkv'
 file 'singleshotAMT.mkv'
@@ -24,4 +24,3 @@ file 'singleshotAMT.mkv'
 file 'singleshotAMT.mkv'
 file 'singleshotAMT.mkv'
 file 'singleshotAMT.mkv'
-
