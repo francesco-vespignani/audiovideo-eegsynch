@@ -1,0 +1,27 @@
+###
+# merge multiple viedos
+###
+###
+# ffmpeg -f concat -i mylist.txt -c copy output.wav
+###
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+file 'singleshotAMT.mkv'
+
