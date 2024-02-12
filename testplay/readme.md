@@ -8,7 +8,7 @@ The aim is building a video in lossless audio/video encoding:
 The  sample (singleshotAMT.mkv) is a 2s movies with a 1s blank, followed by a syncronized
 audio-video spot of 0.2s with additional audio-trigger channel (see below)
 
-A sequence of 20 single shopt is in sequenceAMT.mkv
+A sequence of 20 single shots is in sequenceAMT.mkv
 
 ## Description of the content
 
